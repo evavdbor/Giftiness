@@ -1,0 +1,25 @@
+    
+V1.1 (06-3-2013)
+* Minor css tweaks to address iphone spacing and IE9 Navigation bug
+* Adjusted service HTML page margins and mobile spacing
+
+
+V1.2 (07-5-2013)
+* Updated minor css issue main.css lines 586-601 (Signle Page Version)
+* Updated minor css issue main.css lines 565-576 (Multi Page Version)
+
+
+V1.3 (10-11-2013)
+* Updated Twitter section on all html pages (Both Version)
+* Removed Twitter CSS in main.css (Both Version)
+
+
+V1.4 (01-26-2015)
+* Updated To Bootstrap 3.3.2 (Both Version)
+* Updated To Jquery 1.11.2 (Both Version)
+* Updated To FontAwesome 4.3.0 (Both Version)
+
+
+V1.5 (08-14-2015)
+* Updated To Bootstrap 3.3.5 (Both Version)
+* Updated To FontAwesome 4.4.0 (Both Version)
